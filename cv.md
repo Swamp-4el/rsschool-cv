@@ -36,3 +36,8 @@ function countCats(matrix) {
 }
 ```
 =====
+# Experience
+# Education 
+I am a third-year student of Baranovichi State University.
+* I studied C# on my own for a year
+* I've been looking at Javascript, HTML, and CSS materials on various YouTube channels. 
