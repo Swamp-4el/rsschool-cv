@@ -20,3 +20,19 @@ Hello, I am 20 years old. I am studying at university. I have a desire to learn 
 * Medium 
 + C#
 =====
+# Code Example
+[Count cats!] Сount the number of cats.
+```javascript
+function countCats(matrix) {
+	let countCat = 0;
+
+	for (let i = 0; i < matrix.length; ++i) {
+		for (let j = 0; j < matrix[i].length; ++j) {
+			if (matrix[i][j] === '^^') ++countCat;
+		}
+	}
+
+	return countCat;
+}
+```
+=====
