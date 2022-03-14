@@ -41,3 +41,7 @@ function countCats(matrix) {
 I am a third-year student of Baranovichi State University.
 * I studied C# on my own for a year
 * I've been looking at Javascript, HTML, and CSS materials on various YouTube channels. 
+=====
+# English level
+# Уровень английского языка  
+I have an A1 English proficiency level on the EPAM test, but I can speak on some topics in English. Now I am learning English on my own.
