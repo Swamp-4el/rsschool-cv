@@ -1,6 +1,6 @@
 # Kononovich Maxim
 
-======
+******
 
 # Contact information
 
@@ -8,7 +8,7 @@
 * _E-mail:_ kononovich-maks3@mail.ru
 * _GitHub:_ Swamp-4el
 
-======
+******
 
 # About me
 
@@ -61,5 +61,4 @@ I am a third-year student of Baranovichi State University.
 ------
 
 # English level
-# Уровень английского языка  
 I have an A1 English proficiency level on the EPAM test, but I can speak on some topics in English. Now I am learning English on my own.
