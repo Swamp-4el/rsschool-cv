@@ -1,1 +1,1 @@
-# rsschool-cv
+https://swamp-4el.github.io/rsschool-cv/cv
